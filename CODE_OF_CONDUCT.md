@@ -4,8 +4,6 @@ The code of conduct for the ESTER research group at the University of Kiel.
 
 This document serves as a guiding framework for our group, fostering a respectful, inclusive, and productive research environment within the ESTER project.
 
-*'I', 'me', or 'myself' refers to Martin Hinz. 'We' is the ESTER research group at the University of Kiel.*
-
 ## Our Mission
 
 - We aim to develop advanced computational models and archaeological datasets to reconstruct population dynamics across Europe and Western Asia over the past 12,000 years.
