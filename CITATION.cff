@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use ESTER project data or code, please cite as follows:"
+title: "ESTER: Estimates of Settlement Trends and Environmental Responses"
+authors:
+  - family-names: Hinz
+    given-names: Martin
+    orcid: https://orcid.org/0000-0002-9904-6548
+date-released: 2025-09-01
+repository-code: https://github.com/ESTER-Project/ester-project
+license: CC-BY-4.0
