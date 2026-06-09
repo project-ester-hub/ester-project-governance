@@ -133,7 +133,7 @@ There are some tasks each team member may complete without a need for validation
 | arch. proxy operationalisation | discusses | develops and approves decision |
 | data inclusion/exclusion decisions |  approves decision  | develops and approves decision |
 | major GitHub merges | always need a second opinion | always need a second opinion |
-| public release of gathered data |  | develops and decides |
+| public release of gathered data | approves decision | develops and decides |
 | public release of data developed by the project | discusses and approves | discusses and develops |
 | publications | first drafts of introductions | first drafts of archaeological sections |
 | GIS workflows | may discuss if needed | develops and decides |
